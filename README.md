@@ -8,28 +8,28 @@ Easiest way to do this is to download multimc as your installer. Follow [this](h
 At the top of this page click the green code button:
 <img width="1048" height="362" alt="Screenshot_20251025_160511" src="https://github.com/user-attachments/assets/922a23d3-671b-43ec-94a0-7278c6f7e37d" />
 <br>
-Then click on Download Zip and save it in your download folder.
+Then click on Download Zip and save it in your download folder:
 <img width="477" height="387" alt="Screenshot_20251025_160720" src="https://github.com/user-attachments/assets/1d2c95de-8a8d-4a5b-9b07-f6585bd00dd7" />
 <br>
 <br>
 
 ## Step 3
-Inside of Multimc click on **Add Instance**.
+Inside of Multimc click on **Add Instance**:
 <img width="547" height="243" alt="Screenshot_20251025_161057" src="https://github.com/user-attachments/assets/c5858ad4-6aed-4f81-b3b5-a97afc99658b" />
 <br>
-In the Vanilla tab scroll down till you see minecraft version **1.21.1.**
+In the Vanilla tab scroll down till you see minecraft version **1.21.1.**:
 <img width="834" height="413" alt="Screenshot_20251025_161346" src="https://github.com/user-attachments/assets/63081667-3c79-4583-9822-515aeacbfa41" />
 name it whatever you like and then click on ok.
 <br>
-Back on the main menu select the 1.12.1 instance you just made and click **Edit Instance**
+Back on the main menu select the 1.12.1 instance you just made and click **Edit Instance**:
 <img width="894" height="181" alt="Screenshot_20251025_161632" src="https://github.com/user-attachments/assets/4845782f-369e-4652-b7da-e1493c4e6e8d" />
 <br>
 
 ## Step 4
-Once here go the Version tab and press **Install NeoForge**
+Once here go the Version tab and press **Install NeoForge**:
 <img width="662" height="588" alt="Screenshot_20251025_161839" src="https://github.com/user-attachments/assets/f991fee5-2275-4ea2-bb3a-97379d893c23" />
 <br>
-Use which ever version of neoforge has the star beside it or the lastest one and press ok
+Use which ever version of neoforge has the star beside it or the lastest one and press ok:
 <img width="465" height="436" alt="Screenshot_20251025_162221" src="https://github.com/user-attachments/assets/e2dffbed-bd8f-4f05-b4f9-0d94b5df70a4" />
 
 ## Step 5 **NOT OPTIONAL**
@@ -38,7 +38,7 @@ Write a 30,000 word dissertation on the RPG **HYBRID V0.21** [Link](https://web.
 ## Step 6
 UnZip the folder you download in **Step 2** 
 
-In multiMC click on the **Loader mods** tab in your 1.21.1 instance and click on View Folder
+In multiMC click on the **Loader mods** tab in your 1.21.1 instance and click on View Folder:
 <img width="682" height="855" alt="Screenshot_20251025_162839" src="https://github.com/user-attachments/assets/218857ab-a431-4761-b953-9b1edee1f2f8" />
 <br>
 drag all of the .jar files out of the Neoforge 1.21.1 folder and drag them into the mod folder opened by multimc.
