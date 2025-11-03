@@ -1,0 +1,11 @@
+{
+    "pack":{
+        "pack_format":48,
+        "description":"Generated with TheDestruc7i0n's Crafting Generator: https://crafting.thedestruc7i0n.ca"
+    },
+    "filter": {
+		"block": [{
+			"namespace": "minecraft",
+			"path": "recipe/ender_eye.json"
+		}]
+    }}
