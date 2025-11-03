@@ -7,5 +7,94 @@
 		"block": [{
 			"namespace": "minecraft",
 			"path": "recipe/ender_eye.json"
-		}]
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_pick.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_axe.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_shovel.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_hoe.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_shears.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_hammer.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_sword.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_helmet.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_chestplate.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_leggings.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/rm_boots.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_pick.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_axe.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_shovel.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_hoe.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_shears.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_hammer.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_sword.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_helmet.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_chestplate.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_leggings.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/dm_boots.json"
+		}
+		]
     }}
