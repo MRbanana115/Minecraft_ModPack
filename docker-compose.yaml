@@ -1,0 +1,11 @@
+services:
+  floatplane-downloader:
+    container_name: floatplane-downloader
+    environment:
+      - headless=true
+      - username=brianbanas@proton.me
+      - password=76qe7VcPP6g4kPA
+    image: inrix/floatplane-downloader:dev
+    volumes:
+      - /home/brian/Documents/floatplane db:/fp/db
+      - /home/brian/Documents/floatplane videos:/fp/videos

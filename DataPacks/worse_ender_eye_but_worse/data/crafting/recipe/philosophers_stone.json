@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#E#",
+    "ESE",
+    "#E#"
+  ],
+  "key": {
+    "S": {
+      "item": "advancednetherite:netherite_emerald_ingot"
+    },
+    "#": {
+      "item": "create_things_and_misc:vibration_mechanism"
+    },
+    "E": {
+      "item": "ae2:fluix_pearl"
+    }
+  },
+  "result": {
+    "id": "projecte:philosophers_stone",
+    "count": 1
+  },
+  "show_notification": true
+}

@@ -95,6 +95,14 @@
 		{
 			"namespace": "projecte",
 			"path": "recipe/dm_boots.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/philosophers_stone.json"
+		},
+		{
+			"namespace": "projecte",
+			"path": "recipe/philosophers_stone_alt.json"
 		}
 		]
     }}
